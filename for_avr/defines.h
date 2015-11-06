@@ -1,0 +1,2 @@
+#define F_CPU 16000000L
+#define UART_BAUD 19200U
